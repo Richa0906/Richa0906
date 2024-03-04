@@ -4,7 +4,7 @@ Welcome to my coding space! 🚀 I'm a seasoned developer with a knack for craft
 
 ## ⚡ Quick Intro
 
-- 🔭 **Current Role:** Senior Developer at ArnaSoftech Pvt. Ltd., specializing in mobile app development.
+- 🔭 **Current Role:** React Native Developer in Indore, specializing in mobile app development.
 - 🌱 **Learning:** Constantly adapting to industry trends and emerging technologies.
 - 💼 **Open to:** Exciting freelancing projects, bringing over 9 years of expertise.
 - 🤟🏻 **Passionate About:** Proven track record in optimizing field operations and bilingual app development.
