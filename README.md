@@ -34,7 +34,6 @@ Created a bilingual sports transfer platform, enabling player and coach registra
 
 ## 🌐 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-handle)
+- 🌐 [LinkedIn](www.linkedin.com/in/richa-shrivastava-78100648)
 
 Feel free to explore my repositories, star projects that catch your eye, and let's collaborate on this coding adventure together! 🌟
